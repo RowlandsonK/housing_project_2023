@@ -1,7 +1,7 @@
 # Housing Project 2023
 
 ## Overview
-This project revolves around a prospective homebuyer's quest to purchase a house in King County, Washington. The goal is to live in the house for a few years and then sell it for a profit. The buyer has a moderate income, intends to buy a home for less than $1 million, and has allocated funds for potential repairs. The project involves data analysis and modeling of house purchases in the area to understand how different factors relate to each other. Linear regression is employed to estimate house prices and determine the impact of various factors.
+The main focus of this project is a person who wants to buy a house in King County, Washington. The plan is to live in the house for a few years and then sell it for a profit. The buyer has a modest income, plans to buy a home for less than $1 million, and has set aside money for any fixes that might be needed. For the project, data will be analyzed and models will be made based on house sales in the area. This will help us figure out how different factors affect each other. Linear regression is used to predict house prices and figure out how different things affect them.
 
 ## Business Problem
 - What are the effects of living in different parts of King County?
